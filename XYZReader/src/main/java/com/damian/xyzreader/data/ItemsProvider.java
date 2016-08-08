@@ -1,5 +1,5 @@
 
-package com.example.xyzreader.data;
+package com.damian.xyzreader.data;
 
 import android.content.ContentProvider;
 import android.content.ContentProviderOperation;
