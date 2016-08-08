@@ -1,4 +1,10 @@
 <resources>
+    <!-- CollapsingToolbarLayout ImageView's left side margin
+   (sum of values of: dimen list_side_margin
+   + list_item_article CardView's marginLeft
+   + article_title TextView's paddingLeft) -->
+    <dimen name="collapsing_imageview_side_margin">36dp</dimen>
+
     <!-- list -->
     <dimen name="list_side_margin">16dp</dimen>
     <dimen name="list_toolbar_side_margin">0dp</dimen>
