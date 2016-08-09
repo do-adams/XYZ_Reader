@@ -12,7 +12,7 @@ Throughout early August 2016, I worked on renovating this Android application as
 * Integrate the use of a `FloatingActionButton` for the most commonly used user action.
 * Create an attractive and elegant color scheme for the UI.
 * Provide valid material design dimensions for layout XML values such as elevation, padding, margins, and more.
-* Ensure that the images loaded by the Views were properly cropped and scaled.
+* Ensure that the images loaded by the Views are properly cropped and scaled and that the text is readable and pleasing to the eye. 
 * Test that the design scales gracefully across a wide range of devices and is adaptive to both mobile and tablet UIs.
 
 I believe I achieved all of these and more, while preserving almost all of the original business logic. 
