@@ -13,7 +13,7 @@ Throughout early August 2016, I worked on renovating this Android application as
 * Create an attractive and elegant color scheme for the UI.
 * Provide valid material design dimensions for layout XML values such as elevation, padding, margins, and more.
 * Align text and UI elements in a way that takes advantage of the Gestalt principles of grouping.
-* Ensure that the images loaded by the Views are properly cropped and scaled and that the text is readable and pleasing to the eye. 
+* Ensure that the images loaded by the views are properly cropped and scaled and that the text is readable and pleasing to the eye. 
 * Test that the design scales gracefully across a wide range of devices and is adaptive to both mobile and tablet UIs.
 
 When I first started to work on this project, this was my starting point:
