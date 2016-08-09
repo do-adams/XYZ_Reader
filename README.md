@@ -5,7 +5,7 @@ A mock RSS feed reader Android app featuring material design.
 
 # Behind the Scenes
 
-Throughout early August 2016, I worked on renovating this Android application as part of completing the [Material Design for Android Developers]() course at [Udacity](). During the time I spent on this project, I was tasked to:
+Throughout early August 2016, I worked on renovating this Android application as part of completing the [Material Design for Android Developers](https://www.udacity.com/course/material-design-for-android-developers--ud862) course at [Udacity](https://www.udacity.com/). During the time I spent on this project, I was essentially tasked to:
 
 * Utilize the Android Design Support library and its components to enhance the user UI experience.
 * Implement parallax scrolling via the use of a `CollapsingToolbarLayout` and a `CoordinatorLayout` in the main activity.
